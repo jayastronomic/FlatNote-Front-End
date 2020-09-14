@@ -18800,6 +18800,10 @@ video {
   animation: bounce 1s infinite;
 }
 
+.error {
+  color: red;
+}
+
 @media (min-width: 640px) {
   .sm\:container {
     width: 100%;
